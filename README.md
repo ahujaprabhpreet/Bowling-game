@@ -27,3 +27,14 @@ Input: Strike, 7, Spare, 9, Miss, Strike, Miss, 8, 8, Spare, Miss, 6, Strike, St
 * Spare - Score of 10, plus the total number of pins knocked down on the next roll only
 * Each frame displays the cumulative score up to that point for all complete frames. If a frame has a strike or spare, the score for that frame is not displayed until sufficient subsequent rolls have been input
 
+## Usage and Testing
+* Open the project in any IDE and run the application
+* Enter the number of players and scores for individual frames for each player as mentioned in the interface
+* Note: Assuming that the user inputs only numbers for the player count and score. (As the scores are going to be fed by the gaming console)
+* Total score will be calculated and the winner will be declared at the end of 10th frame
+
+* To run tests, Run all tests using the IDE
+
+
+
+
